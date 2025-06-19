@@ -12,7 +12,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "CRISS-AI-lEoXQLpZ#tjS7wN06Ik7F3fi3rTm-j7lhjUzoSD-bje47aCvK6mE"
     },  
     
     "STICKER_NAME": {
@@ -88,13 +88,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴄʀɪss ᴠᴇᴠᴏ"
+      "value": "Nicolaus Daniel 2😈😈"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255766263739"
+      "value": "255652398614"
 
     }, 
 
