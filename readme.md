@@ -9,6 +9,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
+  <a href="https://youtube.com/@criss-vevo">
+    <img title="DEPLOY CRISS AI" src="https://img.shields.io/badge/🚀_TUTORIAL_VEDEO_HERE-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  </a>
+</p>
+
+
+
+<p align="center">
   <a href="https://github.com/criss-vevo/CRISS-AI/fork">
     <img title="FORK CRISS AI REPO" src="https://img.shields.io/badge/📁_FORK_CRISS_AI_REPO-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
   </a>
