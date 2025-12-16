@@ -124,7 +124,7 @@ const port = process.env.PORT || 9090;
 *│  ◦* *ᴛʏᴘᴇ : ${config.PREFIX}menu* 
 *╰┈───────────────╯*
 > *ᴘᴏᴡᴇʀᴇᴅ ʙʏ CRISS VEVO*`;
-    conn.sendMessage(conn.user.id, { image: { url: ` ` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/mlp0se.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -779,7 +779,7 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
   }
   
   app.get("/", (req, res) => {
-  res.send("RAHEEM-XMD-3 STARTED ✅");
+  res.send("CRISS-AI STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
