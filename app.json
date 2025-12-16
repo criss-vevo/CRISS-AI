@@ -25,7 +25,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255780863292"
+      "value": "255687068672"
     }, 
 
     "OWNER_NAME": {
