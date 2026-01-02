@@ -68,7 +68,7 @@
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("", '');
+const sessdata = config.SESSION_ID.replace("CRISS-AI~>", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -115,7 +115,7 @@ const port = process.env.PORT || 9090;
   
   let up = `*╭┈───────────────╮*
 *│ ◦* *CRISS-AI ᴄᴏɴᴇᴄᴛᴇᴅ*
-*│ ◦* *ᴅᴇᴠ* : *criss-0ne*
+*│ ◦* *ᴅᴇᴠ* : *CRISS-VEVO*
 *│ ◦* *sᴀᴛᴜs* : *ᴏɴʟʏ*
 *│ ◦* *ɴᴜᴍʙᴇʀ* : +255687068672
 *│ ◦* *ɴᴜᴍʙᴇʀ* : +255687068672
