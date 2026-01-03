@@ -21,6 +21,13 @@
       "required": false,
       "value": "true"
     }, 
+
+    "AUTO_TYPING": {
+      "description": "Make it true if you want auto typing.",
+      "required": false,
+      "value": "false"
+    },
+
     
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
