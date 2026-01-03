@@ -1,7 +1,7 @@
 
 {
   "name": "CRISS-AI",
-  "version": "3.1.0",
+  "version": "0.0.1",
   "description": "A WhatsApp Bot Created By CrissVevo",
   "main": "index.js",
   "scripts": {
