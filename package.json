@@ -11,7 +11,7 @@
     "dev": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.21",
+    "@whiskeysockets/baileys": "npm:angularsockets",
     "@adiwajshing/keyed-db": "^0.2.4",
 
     "@dark-yasiya/yt-dl.js": "1.0.5",
